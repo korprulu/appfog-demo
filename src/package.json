@@ -1,0 +1,8 @@
+{
+    "name": "appfog_demo_01",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "",
+        "mongodb": ""
+    }
+}
